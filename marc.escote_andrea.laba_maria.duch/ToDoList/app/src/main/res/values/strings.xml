@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_text_input">Enter title…</string>
+    <string name="date_list_task">Task Date</string>
+    <string name="new_task_title">Title</string>
+    <string name="new_task_date">Date</string>
+    <string name="title_create_task">Create Task</string>
+    <string name="title_list_task">Task Title</string>
+</resources>
